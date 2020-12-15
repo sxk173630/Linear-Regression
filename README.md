@@ -9,7 +9,7 @@ on the dataset.
 
 INSTALLATION
 ------------
-I have the .py file, "linear regression", that uses the, "PRSA_Data_Changping.txt", to implement the dataset.
+I have the .py file, "Linear_Regression", that uses the, "PRSA_Data_Changping.txt", to implement the dataset.
 
 TROUBLESHOOTING
 ---------------
